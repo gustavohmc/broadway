@@ -1,0 +1,33 @@
+* {
+  font-family: helvetica;
+}
+
+.title {
+  position: relative;
+  width: 100%;
+}
+
+h1 {
+  position: absolute;
+  top: -50px;
+  width: 100%;
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+nav {
+  position: absolute;
+  top: 125px;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: underline;
+  color: white;
+}
