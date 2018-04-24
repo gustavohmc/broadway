@@ -34,7 +34,6 @@ nav a {
 
 #process {
   font-size: 32px;
-  font-weight: bold;
   text-align: center;
   color: grey;
 }
@@ -49,6 +48,11 @@ h3 {
 p {
   font-size: 14px;
   text-align: center;
+  color: grey;
+}
+
+#portfolio{
+  font-family: helvetica;
 }
 
 #understand{
@@ -64,4 +68,11 @@ p {
   color: white;
   font-weight: bold;
   text-align: center;
+}
+
+#contact p{
+  font-size: 14px;
+  text-align: center;
+  color: grey;
+  line-height: 36px;
 }
