@@ -2,7 +2,7 @@
   font-family: helvetica;
 }
 
-.title {
+#title {
   position: relative;
   width: 100%;
 }
@@ -19,7 +19,7 @@ h1 {
 
 nav {
   position: absolute;
-  top: 125px;
+  top: 120px;
   width: 100%;
   text-align: center;
   font-size: 18px;
@@ -30,4 +30,27 @@ nav {
 nav a {
   text-decoration: underline;
   color: white;
+}
+
+#process {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: grey;
+}
+
+h3 {
+  color: grey;
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+  text-align: center;
+}
+
+#understand{
+  padding-top: 10px;
 }
